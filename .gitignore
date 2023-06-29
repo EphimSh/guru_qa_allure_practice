@@ -4,4 +4,4 @@
 *.class
 *.log
 gradle-wrapper.jar
-gradle-wrapper .properties
+gradle-wrapper.properties
