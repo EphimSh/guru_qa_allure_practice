@@ -15,4 +15,4 @@ jobs:
           distribution: 'zulu'
           java-version: '17'
           #run tests
-      - run: ./gradwlew clean test
+      - run: ./gradlew clean test
